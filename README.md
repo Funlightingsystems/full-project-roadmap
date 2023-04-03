@@ -1,10 +1,6 @@
 Welcome to the "funlightingsystems" project. 
 
-
-
-The requirements for the project are as follows:
-
-
+<span style="color:blue">Requirements</span>
 
 -Raspberry pi runs an Artnet server.
 
