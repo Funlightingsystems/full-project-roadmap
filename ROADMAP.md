@@ -7,7 +7,7 @@ Roadmap:
 
 -Write a python script that receives Artnet data (Modified + Complete)
 
--Write an arduino script that receives the data over serial and turns the light on and off (In Progress)
+-Write an arduino script that receives the data over serial and turns the light on and off (CANCELLED replaced with a pi)
 
 -Verify that the system works offline (In progress)
 
