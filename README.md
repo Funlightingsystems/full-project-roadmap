@@ -18,9 +18,6 @@ Welcome to the "funlightingsystems" project.
 
 -IPad works as monitor to see if the information is being processed from the Jands StageCL
 
-The paperwork is attached here: https://docs.google.com/file/d/1gamonpsymF91IDRi_Acwf4K-xHbDLnPG/edit?usp=docslist_api&filetype=msword
-
-
 To view the current progress see the "ROADMAP.md" file.
 
 
